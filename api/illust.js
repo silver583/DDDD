@@ -5,7 +5,7 @@
 //  /api/illust            -> (name 없이) 파일 있는 제품명 목록만 돌려줌 (배지용)
 // ============================================================
 
-const DATABASE_ID  = "2f2d2babd04b4401b2a6dbcc5e2bd11d"; // 일러스트 DB
+const DATABASE_ID  = "03a6d2bba1334ecbadb39dd73071b714"; // 일러스트 DB
 const YEAR_PROP    = "개발년도";   // 필터: 개발년도 = 2026
 const YEAR_VALUE   = "2026";
 const FILE_PROP    = "AI 파일";    // 이 칸에 첨부된 이미지를 읽음
